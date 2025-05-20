@@ -56,7 +56,7 @@ Build a predictive classification model that determines whether a passenger surv
 
 🔗 Project Demo / LinkedIn Post
 
-👉 [Add your LinkedIn post link here]
+👉 [(https://www.linkedin.com/feed/update/urn:li:activity:7330627197981900800/)]
 
 ---
 
